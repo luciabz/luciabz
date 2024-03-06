@@ -1,6 +1,4 @@
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RnxFP4xzULk?si=GCAX-zy3L6u2yTwG?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Lucia!)
 <h1>Acerca de mí</h1>
 Soy estudiante de Ingeniería en Sistemas de Información apasionada por el desarrollo web Frontend. Me encanta crear interfaces de usuario divertidas y atractivas, y me esfuerzo por mantener una estructura de contenido simple y patrones de diseño limpios en mis proyectos. Disfruto explorando nuevas tecnologías y buscando formas de mejorar las interacciones del usuario.
