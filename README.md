@@ -1,8 +1,5 @@
-<div style="position:relative;">
-  <video autoplay muted loop style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-     <source src="https://youtu.be/RnxFP4xzULk?si=_I7R8PaAvj5k5zSH" type="video/mp4">
-  </video>
-  
+
+![video](https://youtu.be/RnxFP4xzULk?si=GCAX-zy3L6u2yTwG)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Lucia!)
 <h1>Acerca de mí</h1>
 Soy estudiante de Ingeniería en Sistemas de Información apasionada por el desarrollo web Frontend. Me encanta crear interfaces de usuario divertidas y atractivas, y me esfuerzo por mantener una estructura de contenido simple y patrones de diseño limpios en mis proyectos. Disfruto explorando nuevas tecnologías y buscando formas de mejorar las interacciones del usuario.
