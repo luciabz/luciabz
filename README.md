@@ -1,7 +1,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Lucia!)
-<h1>Acerca de mí</h1>
-Soy estudiante de Ingeniería en Sistemas de Información apasionada por el desarrollo web Frontend. Me encanta crear interfaces de usuario divertidas y atractivas, y me esfuerzo por mantener una estructura de contenido simple y patrones de diseño limpios en mis proyectos. Disfruto explorando nuevas tecnologías y buscando formas de mejorar las interacciones del usuario.
+<h1>About me</h1>
+I am an Information Systems Engineering student passionate about Frontend web development. I love creating fun and engaging user interfaces, and I strive to keep a simple content structure and clean design patterns in my projects. I enjoy exploring new technologies and looking for ways to improve user interactions.
 
 
 <!----------------------------------------------------------------------------------------------->
@@ -19,7 +19,7 @@ Soy estudiante de Ingeniería en Sistemas de Información apasionada por el desa
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=luciabz&theme=tokyonight_duo&hide_border=true"
 </p>
 <!-------------------------------------------------------------------------------------------------->
-<p align="center"> ¡No dudes en contactarme si quieres hablar sobre colaboraciones, proyectos interesantes o simplemente para charlar sobre desarrollo web!
+<p align="center"> Feel free to contact me if you want to talk about collaborations, interesting projects or just to chat about web development!
     <br/><br/><a href="https://www.linkedin.com/in/lucia-b-324a4927a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
     <a href="https://www.instagram.com/lucia_benitez.1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
     <a href="https://twitter.com/luciaabtz" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" /></a>
