@@ -42,32 +42,7 @@ graph TD;
     Front-End-->TypeScript;
     Front-End-->JQuery;
 ```
-```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [-57,-26.9],
-             [-54.9,-26.9],
-             [-54.9,-26.9],
-             [-57,-26.9],
-             [-57,-26.9]
-         ]
-       ]
-     }
-   }
- ]
-}
-```
+
 <div align="center">
 <br><p align="centre"><b>Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{luciabz}/count.svg" /></p> 
