@@ -9,7 +9,7 @@ I am an Information Systems Engineering student passionate about Frontend web de
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luciabz&show_icons=true&count_private=true&hide_border=true&title_color=ff007f&icon_color=ff007f&text_color=c9d1d9&bg_color=0d1117" alt="Lucia's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luciabz&show_icons=true&count_private=true&hide_border=true&title_color=ff007f&icon_color=ff007f&text_color=c9d1d9&bg_color=0d1117" alt="Luciabz's github stats" /> 
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciabz&layout=compact&hide_border=true&title_color=ff007f&text_color=ff007f&bg_color=0d1117" />
 </div> 
