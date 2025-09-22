@@ -38,14 +38,11 @@ graph TD;
     Front-End-->React;
     Front-End-->Next.js;
     Front-End-->JSON;
-    Front-End-->Talwind;
+    Front-End-->Tailwind;
     Front-End-->TypeScript;
     Front-End-->JQuery;
 ```
 
-<div align="center">
-<br><p align="centre"><b>Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luciabz}/count.svg" /></p> 
-<br>
+
 </div>
 
